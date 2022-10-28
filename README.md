@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Node.JS**
 
